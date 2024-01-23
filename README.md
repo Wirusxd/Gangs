@@ -1,7 +1,3 @@
-#World of Crime
-Kod źródłowy jest umieszciony na githubie wraz z bazą danych.
-
-Applikacja posiada wszystkie mozliwosci CRUD + logowanie
 
 Testowi użytkownicy:
 
