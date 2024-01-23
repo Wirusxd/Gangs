@@ -10,9 +10,6 @@ User
      login   “User”
      hasło   “password”
 
-są 4 encji i jeden eunm
-
-eunm: Nationality (mieści w sobie 10 narodowości które można wybrać podczas tworzenia gang membera lub bossa)
 
 Boss
 
@@ -24,7 +21,7 @@ Boss
     string OrganizationName 
     IList<Organization> Organizations 
 
-Gang member (ma charakterystyki które będą używane podczas walki z innymi memberami)
+Gang member
  
     int MemberId 
     string FirstName 
