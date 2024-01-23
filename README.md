@@ -52,5 +52,3 @@ Organization
      IList<Base> Bases 
 
 
-BaseApiController - web api rest z akcjami Base
-
